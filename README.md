@@ -1,2 +1,3 @@
 # documents
-This repo deals with documents
+
+Dieses Repository enthält öffentliche Dokumente der Clear & Clean GmbH
