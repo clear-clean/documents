@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Documents
 
-[Test.pdf](http://clear-clean.github.io/documents/website/test.pdf)
+[Test.pdf](http://clear-clean.github.io/documents/docs/test.pdf)
