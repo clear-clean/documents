@@ -2,11 +2,12 @@
 
 ### Publikationen und Fachaufsätze
 
-[Test.pdf](https://clear-clean.github.io/documents/docs/test.pdf)
+[Test.pdf](https://clear-clean.github.io/publications/german/30.pdf)
 
-=======
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+--------------------------------------------------
+| No | Sadly        | There is none              |
+--------------------------------------------------
+| Except this, which is a poor alternative       |
+--------------------------------------------------
+| There really      | should be one              |
+--------------------------------------------------
