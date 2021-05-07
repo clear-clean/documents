@@ -4,10 +4,9 @@
 
 [Test.pdf](https://clear-clean.github.io/publications/german/30.pdf)
 
---------------------------------------------------
-| No | Sadly        | There is none              |
---------------------------------------------------
-| Except this, which is a poor alternative       |
---------------------------------------------------
-| There really      | should be one              |
---------------------------------------------------
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
