@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<details><summary>Publikationen</summary>
-<p>
+#### Publikationen
 
 | Nr.  | Titel                                                                                                                                                                 | Autoren                                                     | Downloads                                                             
 |-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|:-----------------------------------------------------------:
@@ -48,6 +47,3 @@ layout: default
 |   39 | Zur Geschichte des Reinen Arbeitens                                                                                                                                   | Win Labuda                                                  | [DE](publications/DE/39.pdf)  [EN](publications/EN/39.pdf)  
 |   40 | Beitrag zur Reinheit der technischen Systeme 40 Jahre Clear & Clean - 80 Jahre Win Labuda                                                                             | Win Labuda                                                  | [DE](publications/DE/40.pdf)  [EN](publications/EN/40.pdf)  
 |   41 | Papier von erhöhter Oberflächen-Reinheit                                                                                                                              | Win Labuda, Christian Wendt                                 | [DE](publications/DE/41.pdf)  [EN](publications/EN/41.pdf)  
-
-</p>
-</details>
