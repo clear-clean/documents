@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Publikationen
+### Publikationen
 
 | Nr.  | Titel                                                                                                                                                                 | Autoren                                                     | Downloads                                                             
 |-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|:-----------------------------------------------------------:
@@ -48,10 +48,23 @@ layout: default
 |   40 | Beitrag zur Reinheit der technischen Systeme 40 Jahre Clear & Clean - 80 Jahre Win Labuda                                                                             | Win Labuda                                                  | [DE](publications/DE/40.pdf)  [EN](publications/EN/40.pdf)  
 |   41 | Papier von erhöhter Oberflächen-Reinheit                                                                                                                              | Win Labuda, Christian Wendt                                 | [DE](publications/DE/41.pdf)  [EN](publications/EN/41.pdf)  
 
-#### Datenblätter
+### Datenblätter
 
-##### Tücher
+#### Tücher
 
-| Nr.  | Produkt      | Kategorie | Downloads
-|-----:|:-------------|:----------|:---------:
-|    1 | MICROWEB UDG | Tücher    | [DE](publications/DE/01.pdf)
+| Nr.  | Produkt       | Kategorie  | Downloads
+|-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
+|    1 | MICROWEB™ UDG | Präzision  | [DE](datasheets/cloths/DE/MICROWEB_UDG_201026.pdf)
+|    2 | SONIT™ MDH    | Präzision  | [DE](datasheets/cloths/DE/SONIT_MDH_201008.pdf)
+|    3 | SONIT™ HDM    | Fein       | [DE](datasheets/cloths/DE/SONIT_HDM_201008.pdf)
+|    4 | SONIT™ MDM    | Fein       | [DE](datasheets/cloths/DE/SONIT_MDM_201026.pdf)
+|    5 | SIBIS™ GDU    | Fein       | [DE](datasheets/cloths/DE/SIBIS_GDU_201008.pdf)
+|    6 | LABOCLEAR™    | STANDARD   | [DE](datasheets/cloths/DE/LABOCLEAR_200511.pdf)
+|    7 | ABSORMAT™     | STANDARD   | [DE](datasheets/cloths/DE/ABSORMAT_190722.pdf)
+|    8 | VISCOT™       | STANDARD   | [DE](datasheets/cloths/DE/VISCOT_190722.pdf)
+|    9 | VISCO-PAN™    | STANDARD   | [DE](datasheets/cloths/DE/VISCO-PAN_201008.pdf)
+|   10 | DRYTECH™      | STANDARD   | [DE](datasheets/cloths/DE/DRYTECH_200908.pdf)
+
+#### Verbrauchsmaterial
+
+#### Prüfsysteme
