@@ -65,6 +65,37 @@ layout: default
 |    9 | VISCO-PAN™    | STANDARD   | [DE](datasheets/cloths/DE/VISCO-PAN_201008.pdf)
 |   10 | DRYTECH™      | STANDARD   | [DE](datasheets/cloths/DE/DRYTECH_200908.pdf)
 
+
+
+| Nr.  | Product       | Categorie  | Downloads
+|-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
+|    1 | MICROWEB™ UDG | Precision  | [EN](datasheets/cloths/EN/MICROWEB_UDG_201026.pdf)
+|    2 | SONIT™ MDH    | Precision  | [EN](datasheets/cloths/EN/SONIT_MDH_201008.pdf)
+|    3 | SONIT™ HDM    | Fine       | [EN](datasheets/cloths/EN/SONIT_HDM_201008.pdf)
+|    4 | SONIT™ MDM    | Fine       | [EN](datasheets/cloths/EN/SONIT_MDM_201026.pdf)
+|    5 | SIBIS™ GDU    | Fine       | [EN](datasheets/cloths/EN/SIBIS_GDU_201008.pdf)
+|    6 | LABOCLEAR™    | STANDARD   | [EN](datasheets/cloths/EN/LABOCLEAR_200511.pdf)
+|    7 | ABSORMAT™     | STANDARD   | [EN](datasheets/cloths/EN/ABSORMAT_190722.pdf)
+|    8 | VISCOT™       | STANDARD   | [EN](datasheets/cloths/EN/VISCOT_190722.pdf)
+|    9 | VISCO-PAN™    | STANDARD   | [EN](datasheets/cloths/EN/VISCO-PAN_201008.pdf)
+|   10 | DRYTECH™      | STANDARD   | [EN](datasheets/cloths/EN/DRYTECH_200908.pdf)
+
 #### Verbrauchsmaterial
+
+| Nr.  | Produkt       | Kategorie  | Downloads
+|-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
+|   13 | MINICONT®     | Präzision  | [DE](datasheets/cloths/DE/MINICONT_201026.pdf)
+|   11 | GALAXY®       | Papier     | [DE](datasheets/cloths/DE/GALAXY_190722.pdf)
+|   14 | STRETCHBOND™  | Handschuhe | [DE](datasheets/cloths/DE/STRETCHBOND_200729.pdf)
+|   12 | GRIPFOLD™     | Präzision  | [DE](datasheets/cloths/DE/GRIPFOLD_201008.pdf)
+
+
+| Nr.  | Product       | Categorie  | Downloads
+|-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
+|   13 | MINICONT®     | Precision  | [EN](datasheets/cloths/EN/MINICONT_201026.pdf)
+|   11 | GALAXY®       | Paper      | [EN](datasheets/cloths/EN/GALAXY_190722.pdf)
+|   14 | STRETCHBOND™  | Gloves     | [EN](datasheets/cloths/EN/STRETCHBOND_200729.pdf)
+|   12 | GRIPFOLD™     | Precision  | [EN](datasheets/cloths/EN/GRIPFOLD_201008.pdf)
+
 
 #### Prüfsysteme
