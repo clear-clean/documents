@@ -69,9 +69,9 @@ layout: default
 
 | Nr.  | Produkt       | Kategorie  | Downloads
 |-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
-|   13 | MINICONT®     | Präzision  | [DE](datasheets/cloths/DE/MINICONT_201026.pdf)    [EN](datasheets/cloths/EN/MINICONT_201026.pdf)
-|   11 | GALAXY®       | Papier     | [DE](datasheets/cloths/DE/GALAXY_190722.pdf)      [EN](datasheets/cloths/EN/GALAXY_190722.pdf)
-|   14 | STRETCHBOND™  | Handschuhe | [DE](datasheets/cloths/DE/STRETCHBOND_200729.pdf) [EN](datasheets/cloths/EN/STRETCHBOND_200729.pdf)
-|   12 | GRIPFOLD™     | Präzision  | [DE](datasheets/cloths/DE/GRIPFOLD_201008.pdf)    [EN](datasheets/cloths/EN/GRIPFOLD_201008.pdf)
+|    1 | MINICONT®     | Präzision  | [DE](datasheets/cloths/DE/MINICONT_201026.pdf)    [EN](datasheets/cloths/EN/MINICONT_201026.pdf)
+|    2 | GALAXY®       | Papier     | [DE](datasheets/cloths/DE/GALAXY_190722.pdf)      [EN](datasheets/cloths/EN/GALAXY_190722.pdf)
+|    3 | STRETCHBOND™  | Handschuhe | [DE](datasheets/cloths/DE/STRETCHBOND_200729.pdf) [EN](datasheets/cloths/EN/STRETCHBOND_200729.pdf)
+|    4 | GRIPFOLD™     | Präzision  | [DE](datasheets/cloths/DE/GRIPFOLD_201008.pdf)    [EN](datasheets/cloths/EN/GRIPFOLD_201008.pdf)
 
 #### Prüfsysteme
