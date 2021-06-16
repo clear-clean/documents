@@ -75,3 +75,7 @@ layout: default
 |    4 | GRIPFOLD™     | Präzision  | [DE](datasheets/cloths/DE/GRIPFOLD_201008.pdf)    [EN](datasheets/cloths/EN/GRIPFOLD_201008.pdf)
 
 #### Prüfsysteme
+
+| Nr.  | Produkt       | Kategorie  | Downloads
+|-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
+| 1    | CC-MICROLITE  | Leuchte    | [DE](datasheets/inspection_systems/DE/CC-MICROLITE.pdf)
