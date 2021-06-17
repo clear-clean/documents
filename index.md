@@ -74,7 +74,7 @@ layout: default
 |    3 | STRETCHBOND™  | Handschuhe | [DE](datasheets/cloths/DE/STRETCHBOND_200729.pdf) [EN](datasheets/cloths/EN/STRETCHBOND_200729.pdf)
 |    4 | GRIPFOLD™     | Präzision  | [DE](datasheets/cloths/DE/GRIPFOLD_201008.pdf)    [EN](datasheets/cloths/EN/GRIPFOLD_201008.pdf)
 
-#### Prüfsysteme
+## Prüfsysteme
 
 | Nr.  | Produkt       | Kategorie  | Downloads
 |-----:|:--------------|:-----------|:-----------------------------------------------------------------------:
